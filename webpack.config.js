@@ -17,7 +17,7 @@ module.exports = {
     extensions: ['.ts', '.js'],
   },
   output: {
-    filename: 'toolkit',
+    filename: 'toolkit.js',
     path: path.resolve(__dirname, 'dist'),
   },
 };
